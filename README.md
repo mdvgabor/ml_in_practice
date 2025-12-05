@@ -1,6 +1,6 @@
 
-THE CONTENT OF THIS README FILE WAS GENERATED USING GOOGLE GEMINI 3 PRO.
-
+	1.	THE CONTENT OF THIS README FILE WAS GENERATED USING GOOGLE GEMINI 3 PRO
+	
 Wine Quality and Wine Type Prediction
 Machine Learning in Practice – Homework 2.
 	1.	Task Description
